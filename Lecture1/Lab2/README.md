@@ -63,13 +63,13 @@ By the end of this lab, you will:
 - Generate an access token:
     * Profile → Settings → Access Tokens → New Token
 
-    > Copy it safely.
+>Copy it safely.
 
 #### Install HuggingFace CLI:
-    ```python
-        pip install huggingface_hub
-        huggingface-cli login
-    ```
+```Python
+    pip install huggingface_hub
+    huggingface-cli login
+```
 
 --- 
 
@@ -115,9 +115,7 @@ Platform	Deliverable
 ## 🧭 Step 4. Optional Bonus
 
  - Publish a simple notebook on Kaggle with your cleaned dataset from Lab 1.
-
- -Sync your VSCode project with GitHub using push/pull.
-
+ - Sync your VSCode project with GitHub using push/pull.
  - Upload a simple trained model to HuggingFace Hub.
 
 ## 🎓 Evaluation Criteria
