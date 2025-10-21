@@ -71,6 +71,8 @@ By the end of this lab, you will:
         huggingface-cli login
     ```
 
+--- 
+
 ## 🧠 Step 2. Connect Everything to VSCode
 
 **Extensions to install:**
@@ -106,6 +108,8 @@ Platform	Deliverable
     - Kaggle	Screenshot of your profile + one downloaded dataset
     - GitHub	Repository “DVRC-Lab” with your README.md
     - HuggingFace	Created profile + token setup
+
+---
 
 
 ## 🧭 Step 4. Optional Bonus
