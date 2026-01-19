@@ -1,0 +1,12 @@
+b1: 0.5
+b2: 0.999
+batch_size: 64
+data_shape: !!python/tuple
+- 28
+- 28
+- 1
+discriminator_name: Discriminator_3
+generator_name: Generator_2
+lambda_gp: 10
+latent_dim: 128
+lr: 0.001
